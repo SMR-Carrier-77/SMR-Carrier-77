@@ -3,7 +3,7 @@
 I’m a **Professional Android Developer**  💻 from Bangladesh 🇧🇩. Passionate about building modern, efficient, and user-friendly mobile applications using **Kotlin** and the latest Android technologies. 🚀
 
 ---
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/DOzCUnatStsAAAAd/working-morning-work.gif">
 
 ![GitHub followers](https://img.shields.io/github/followers/SMR-Carrier-77?style=social)
 
@@ -12,8 +12,7 @@ I’m a **Professional Android Developer**  💻 from Bangladesh 🇧🇩. Passi
 
 ### 🚀 About Me:
 - 🎓 **Computer Science Student**  
-- 📱 **Android Developer (Java, Kotlin, Jetpack Compose)**
-- 📱 **UI/UX Designer (Figma)**  
+- 📱 **Android Developer (Java, Kotlin)**  
 - 🛠️ Design & Building cool & innovative apps  
 - 🌱 Currently learning **Advanced Jetpack Compose & AI Integration in Apps**  
 
